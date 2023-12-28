@@ -4,7 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am a computer science student, starting out in the world of programming.
 
 * ✉️  You can contact me at [personalife503@gmail.com](mailto:personalife503@gmail.com)
-* 🧠  I'm learning HTML, CSS and JavaScript
 
 ### Skills
 
