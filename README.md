@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I am a computer science student, starting out in the world of programming.
 
-* ✉️  You can contact me at [personalife503@gmail.com](mailto:personalife503@gmail.com)
+* ✉️  You can contact me at [izabellelunadev@gmail.com](mailto:izabellelunadev@gmail.com)
 
 ### Skills
 
