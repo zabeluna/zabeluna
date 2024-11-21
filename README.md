@@ -7,7 +7,7 @@ A Front-End Developer by day 🌾 and a curious learner by night 🍵
 
 
 * ⭐ I use daily: `ts`, `react`, `tailwindcss`
-* 🌿 Connect with me on Linkedin: [zabeluna](mailto:https://www.linkedin.com/in/izabelle-luna-248b33196/)
+* 🌿 Connect with me on Linkedin: [zabeluna](https://www.linkedin.com/in/izabelle-luna-248b33196/)
 * ✉️  You can contact me at: [izabellelunadev@gmail.com](mailto:izabellelunadev@gmail.com)
   
 
